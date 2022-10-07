@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(0,0,200,0.5);
+}
+#titleName{
+    text-align:center;
+    border:none;
+    background-color:darkmagenta;
+    padding-block: 15px;
+    color: white;
+}
+table{
+    margin-top:10px;
+    width:100%;
+}
+#health1{
+    padding-left: 15px;
+    padding-top: 20px;
+    position: fixed;
+}
+#healthDescription1{
+    text-align: center;
+    padding-top: 200;
+    font-weight: bold;
+    font-size: small;
+}
+#healthParagraph1{
+    padding-top:20;
+    font-size: small;
+    padding-left:44.5%;
+}
